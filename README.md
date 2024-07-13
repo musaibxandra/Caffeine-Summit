@@ -1,4 +1,4 @@
-# Caffeine-Synergy-Summit
+# Caffeine Summit
 
 ![alt text](output.png)
  
