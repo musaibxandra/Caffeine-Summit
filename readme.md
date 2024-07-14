@@ -1,7 +1,7 @@
 
 # Caffeine Summit
 
-![My Local Image](imgs/coffee.png)
+![My Local Image](imgs/summit_img.png)
 
 # Description
 
