@@ -59,6 +59,11 @@ In Anticipation of the upcoming Caffeine Summit, The Director-General of the Wor
 ![alt text](imgs/output5.png)
 ![alt text](imgs/output6.png)
 
+### - Composition of all the top 5 producers
+- Countries and their production percentage.
+
+![alt text](imgs/output4.png)
+
 
 ### - Coffee Consumption Vs. Prices: Investigating the relationship between coffee consumption rates and coffee prices.
 
@@ -67,6 +72,13 @@ In Anticipation of the upcoming Caffeine Summit, The Director-General of the Wor
 
 ![alt text](imgs/output7.png)
 
+# Charts
+- Bar chart
+- line chart
+- Stackplot
+- Doughnut charts
+- Pie chart
+- Dual axis bar chart
 
 # Final Report
 
