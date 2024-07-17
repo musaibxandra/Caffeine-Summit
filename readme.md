@@ -1,3 +1,8 @@
+## Report on Caffeine Summit: A thorough analysis on Coffee Producing and Consuming nations.
+
+
+![alt text](imgs/output8.png)
+
 
 # Caffeine Summit
 
@@ -104,5 +109,6 @@ Market Expansion:
 - Percentage Expansion = ( 83505.37 / 133117.37 )  x 100
 - Percentage Expansion = 62.74 %
 
-
 ![alt text](imgs/output8.png)
+
+
