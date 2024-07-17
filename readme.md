@@ -5,9 +5,12 @@
 
 Python | Jupyter notebook | Pandas | Matplotlib 
 
-# Description
+# Description and Objective
 
-In Anticipation of the upcoming Caffeine Summit, The Director-General of the World Health Organization (WHO) has identified a critical need to investigate global coffee production and consumption patterns due to increasing concerns about the economic and health impacts on coffee-producing regions. These concerns are set to be addressed at the Summit, Recent studies have suggested that fluctuations in coffee prices and production may be linked to adverse health outcomes in vulnerable populations. To address this issue, the Director-General has tasked the data analysis team to analyze health implications of coffee production. The analysis should cover:
+In Anticipation of the upcoming Caffeine Summit, The Director-General of the World Health Organization (WHO) has identified a critical need to investigate global coffee production and consumption patterns due to increasing concerns about the economic and health impacts on coffee-producing regions.
+
+
+To address this issue, the Director-General has tasked the data analysis team to analyze health implications of coffee production. The analysis should cover:
 
 
 - Total Production Overview: Understanding global coffee production trends.
